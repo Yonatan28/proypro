@@ -1,0 +1,9 @@
+﻿E
+Elevador
+P
+G
+Garaje
+I
+C
+Zona común
+I

@@ -1,0 +1,13 @@
+﻿0001
+lupa
+0002
+lapiz
+0003
+zapatos
+0004
+vasos
+0005
+maus
+0006
+camaron
+

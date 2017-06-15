@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace proy
+namespace final
 {
     public partial class Form1 : Form
     {
@@ -19,8 +19,14 @@ namespace proy
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2 frm = new Form2();
-            frm.Show();
+            Form2 abrir = new Form2();
+            abrir.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form3 abrir = new Form3();
+            abrir.Show();
         }
     }
 }
