@@ -3,7 +3,8 @@
 80
 1234653-1
 E-30
-Banco Mundial;Banca
+Banco Mundial
+Banca
 L
 0-B
 80
@@ -32,4 +33,4 @@ P01
 G-00
 A
 S
-GP02129876543-4G-00CN
+GP02129876543-4G-00CN

@@ -61,6 +61,7 @@
     </Compile>
     <Compile Include="garaje.cs" />
     <Compile Include="gastos.cs" />
+    <Compile Include="gastos2.cs" />
     <Compile Include="local.cs" />
     <Compile Include="piso.cs" />
     <Compile Include="Program.cs" />
@@ -98,6 +99,7 @@
   <ItemGroup>
     <Content Include="comunidad.txt" />
     <Content Include="gastos.txt" />
+    <Content Include="gastos2.txt" />
     <Content Include="propiedades.txt" />
     <Content Include="propietarios.txt" />
   </ItemGroup>

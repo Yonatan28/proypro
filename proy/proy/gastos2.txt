@@ -1,0 +1,13 @@
+﻿ElE0801
+Mantenimiento Elevador Enero
+500
+E
+ElE0803
+Mantenimiento Elevador Febrero
+580
+E
+ElG0801
+Luz de Garajes Enero
+250
+G
+AgC0803Agua Zona Común Marzo150C

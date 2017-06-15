@@ -22,5 +22,10 @@ namespace proy
             Form2 frm = new Form2();
             frm.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
